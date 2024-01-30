@@ -1,0 +1,18 @@
+body{
+    margin: 20px;
+}
+img.dp{
+    width: 150px;
+}
+div.card{
+    width: 400px;
+    margin: 0 auto;
+    border-bottom: 5px solid rgb(153, 16, 153);
+    padding: 20px;
+    display:flex;
+    justify-content: space-around;
+    background: rgb(173, 243, 243);
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+}
